@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SnowCait/hello-world-javascript-action/issues"
   },
-  "homepage": "https://github.com/SnowCait/hello-world-javascript-action#readme"
+  "homepage": "https://github.com/SnowCait/hello-world-javascript-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.1.1"
+  }
 }
